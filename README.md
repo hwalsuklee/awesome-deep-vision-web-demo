@@ -32,6 +32,7 @@ Please feel free to pull requests to add papers.
 ### Colorization  
 * https://paintschainer.preferred.tech/
 * deepcolor http://color.kvfrans.com/
+* gray image to color image http://demos.algorithmia.com/colorize-photos/
 
 ### Visual Q&A  
 * http://vqa.daylen.com/
