@@ -4,10 +4,14 @@ A curated list of awesome deep vision web demo
 ## Contributing  
 Please feel free to pull requests to add papers.
 
+## Neural-Net Demo List
+* tensorflow play ground http://playground.tensorflow.org/
+* karpathy: toy 2d classification http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
+
 ## Vision Demo List  
 
 ### Hand-written Digit Recognition  
-* https://tensorflow-mnist.herokuapp.com/
+* https://tensorflow-mnist.herokuapp.com/  
 
 ### TAGGING  
 * https://www.clarifai.com/demo
