@@ -12,6 +12,9 @@ Please feel free to pull requests to add papers.
 ### TAGGING  
 * https://www.clarifai.com/demo
 
+### Image Segmentation
+* http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
+
 ### Image Classification  
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
 
