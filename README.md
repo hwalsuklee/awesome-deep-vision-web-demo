@@ -22,6 +22,7 @@ Please feel free to pull requests to add papers.
 
 ### Image Classification  
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
+* IBMWatson Vision API https://visual-recognition-demo.mybluemix.net/
 * Karpathy: MNIST ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html  
 * Karpathy: CIFAR10 ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html  
 
@@ -36,6 +37,7 @@ Please feel free to pull requests to add papers.
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
+* Offline Style Transfer, http://demos.algorithmia.com/deep-style/
 
 ### Image Translation  
 * pix2pix https://affinelayer.com/pixsrv/index.html
