@@ -41,3 +41,6 @@ Please feel free to pull requests to add papers.
 
 ### Gaze Manipulation  
 * http://163.172.78.19/
+
+### Super-Resolution
+* http://waifu2x.udp.jp/
