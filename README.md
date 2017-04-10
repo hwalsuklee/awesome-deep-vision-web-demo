@@ -12,6 +12,7 @@ Please feel free to pull requests to add papers.
 
 ### Hand-written Digit Recognition  
 * https://tensorflow-mnist.herokuapp.com/  
+* https://erkaman.github.io/regl-cnn/src/demo.html
 
 ### TAGGING  
 * https://www.clarifai.com/demo
