@@ -39,5 +39,5 @@ Please feel free to pull requests to add papers.
 ### Quick Draw  
 * https://quickdraw.withgoogle.com/#
 
-* Gaze Manipulation  
-** http://163.172.78.19/
+### Gaze Manipulation  
+* http://163.172.78.19/
