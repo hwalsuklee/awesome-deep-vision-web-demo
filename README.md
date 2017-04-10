@@ -18,7 +18,7 @@ Please feel free to pull requests to add papers.
 * https://www.clarifai.com/demo
 
 ### Image Segmentation
-* CRF+RNN (ICCV2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
+* CRF+RNN (ICCV 2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
 
 ### Image Classification  
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
@@ -61,3 +61,6 @@ Please feel free to pull requests to add papers.
 
 ### Super-Resolution
 * http://waifu2x.udp.jp/
+
+## Saliency Map
+* SALICON (ICCV 2015) http://salicon.net/demo/#
