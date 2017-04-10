@@ -21,10 +21,15 @@ Please feel free to pull requests to add papers.
 * CRF+RNN (ICCV 2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
 
 ### Image Classification  
+* VGG-16 https://deeplearning4j.org/demo-classifier-vgg16
+* Leiden Univ. http://goliath.liacs.nl/
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
 * IBMWatson Vision API https://visual-recognition-demo.mybluemix.net/
 * Karpathy: MNIST ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html  
 * Karpathy: CIFAR10 ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html  
+
+### Object Detection
+* http://silverpond.com.au/object-detector
 
 ### AutoEncoder 
 * VAE : MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
