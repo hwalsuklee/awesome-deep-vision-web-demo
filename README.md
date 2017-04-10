@@ -62,5 +62,5 @@ Please feel free to pull requests to add papers.
 ### Super-Resolution
 * http://waifu2x.udp.jp/
 
-## Saliency Map
+### Saliency Map
 * SALICON (ICCV 2015) http://salicon.net/demo/#
