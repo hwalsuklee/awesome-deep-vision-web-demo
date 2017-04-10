@@ -1,38 +1,43 @@
 # awesome-deep-vision-web-demo
 A curated list of awesome deep vision web demo
 
-* MNIST
-** https://tensorflow-mnist.herokuapp.com/
+## Contributing  
+Please feel free to pull requests to add papers.
 
-* TAGGING
-** https://www.clarifai.com/demo
+## Vision Demo List  
 
-* Image Classification
-** Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
+### MNIST  
+* https://tensorflow-mnist.herokuapp.com/
 
-* VAE
-** MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
-** Gray Face Generation http://vdumoulin.github.io/morphing_faces/online_demo.html
+### TAGGING  
+* https://www.clarifai.com/demo
 
-* DCGAN
-** Asian Color Face Generation http://carpedm20.github.io/faces/
-** Character Generation http://mattya.github.io/chainer-DCGAN/
+### Image Classification  
+* Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
 
-* Style Transfer
-** On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
+### VAE  
+* MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
+* Gray Face Generation http://vdumoulin.github.io/morphing_faces/online_demo.html
 
-* Image Translation
-** pix2pix https://affinelayer.com/pixsrv/index.html
+### DCGAN  
+* Asian Color Face Generation http://carpedm20.github.io/faces/
+* Character Generation http://mattya.github.io/chainer-DCGAN/
 
-* Colorization
-** https://paintschainer.preferred.tech/
-** deepcolor http://color.kvfrans.com/
+### Style Transfer  
+* On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
 
-* Visual Q&A
-** http://vqa.daylen.com/
+### Image Translation  
+* pix2pix https://affinelayer.com/pixsrv/index.html
 
-* Quick Draw
-** https://quickdraw.withgoogle.com/#
+### Colorization  
+* https://paintschainer.preferred.tech/
+* deepcolor http://color.kvfrans.com/
 
-* Gaze Manipulation
+### Visual Q&A  
+* http://vqa.daylen.com/
+
+### Quick Draw  
+* https://quickdraw.withgoogle.com/#
+
+* Gaze Manipulation  
 ** http://163.172.78.19/
