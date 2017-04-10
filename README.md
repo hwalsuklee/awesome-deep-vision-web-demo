@@ -14,15 +14,13 @@ Please feel free to pull requests to add papers.
 * https://tensorflow-mnist.herokuapp.com/  
 * https://erkaman.github.io/regl-cnn/src/demo.html
 
-### TAGGING  
-* https://www.clarifai.com/demo
-
 ### Image Segmentation
 * CRF+RNN (ICCV 2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
 
 ### Image Classification  
 * VGG-16 https://deeplearning4j.org/demo-classifier-vgg16
 * Leiden Univ. http://goliath.liacs.nl/
+* Clarifai https://www.clarifai.com/demo
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
 * IBMWatson Vision API https://visual-recognition-demo.mybluemix.net/
 * Karpathy: MNIST ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html  
