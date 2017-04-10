@@ -6,7 +6,7 @@ Please feel free to pull requests to add papers.
 
 ## Vision Demo List  
 
-### MNIST  
+### Hand-written Digit Recognition  
 * https://tensorflow-mnist.herokuapp.com/
 
 ### TAGGING  
