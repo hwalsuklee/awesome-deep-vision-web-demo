@@ -13,7 +13,7 @@ Please feel free to pull requests to add papers.
 * https://www.clarifai.com/demo
 
 ### Image Segmentation
-* http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
+* CRF+RNN (ICCV2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
 
 ### Image Classification  
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
@@ -33,7 +33,7 @@ Please feel free to pull requests to add papers.
 * pix2pix https://affinelayer.com/pixsrv/index.html
 
 ### Colorization  
-* https://paintschainer.preferred.tech/
+* sketch to color image https://paintschainer.preferred.tech/
 * deepcolor http://color.kvfrans.com/
 * gray photo to color photo http://demos.algorithmia.com/colorize-photos/
 
