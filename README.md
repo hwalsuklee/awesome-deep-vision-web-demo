@@ -44,6 +44,9 @@ Please feel free to pull requests to add papers.
 * deepcolor http://color.kvfrans.com/
 * gray photo to color photo http://demos.algorithmia.com/colorize-photos/
 
+### Image Captioning
+* MS https://www.captionbot.ai/
+
 ### Visual Q&A  
 * http://vqa.daylen.com/
 
