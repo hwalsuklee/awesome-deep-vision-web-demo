@@ -55,6 +55,7 @@ Please feel free to pull requests to add papers.
 
 ### Visual Q&A  
 * http://vqa.daylen.com/
+* https://cloudcv.org/vqa/
 
 ### Quick Draw  
 * https://quickdraw.withgoogle.com/#
