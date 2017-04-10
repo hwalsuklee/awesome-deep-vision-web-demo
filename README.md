@@ -17,10 +17,13 @@ Please feel free to pull requests to add papers.
 
 ### Image Classification  
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
+* Karpathy: MNIST ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html  
+* Karpathy: CIFAR10 ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html  
 
 ### VAE  
 * MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
 * Gray Face Generation http://vdumoulin.github.io/morphing_faces/online_demo.html
+* Karpathy: Denoising AutoEncoder http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html
 
 ### DCGAN  
 * Asian Color Face Generation http://carpedm20.github.io/faces/
