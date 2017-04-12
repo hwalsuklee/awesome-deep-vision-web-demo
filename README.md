@@ -57,8 +57,9 @@ Please feel free to pull requests to add papers.
 * http://vqa.daylen.com/
 * https://cloudcv.org/vqa/
 
-### Quick Draw  
-* https://quickdraw.withgoogle.com/#
+### Google's AI Experiment
+* Quick Draw https://quickdraw.withgoogle.com/#
+* Auto Draw http://www.autodraw.com/
 
 ### Gaze Manipulation  
 * http://163.172.78.19/
