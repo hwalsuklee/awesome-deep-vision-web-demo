@@ -19,6 +19,7 @@ Please feel free to pull requests to add papers.
 
 ### Image Classification  
 * VGG-16 https://deeplearning4j.org/demo-classifier-vgg16
+* Illustration2vec http://demo.illustration2vec.net/
 * Leiden Univ. http://goliath.liacs.nl/
 * Clarifai https://www.clarifai.com/demo
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
