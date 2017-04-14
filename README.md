@@ -4,10 +4,6 @@ A curated list of awesome deep vision web demo
 ## Contributing  
 Please feel free to pull requests to add papers.
 
-## Neural-Net Demo List
-* tensorflow play ground http://playground.tensorflow.org/
-* karpathy: toy 2d classification http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
-
 ## Vision Demo List  
 
 ### Hand-written Digit Recognition  
@@ -70,3 +66,18 @@ Please feel free to pull requests to add papers.
 
 ### Saliency Map
 * SALICON (ICCV 2015) http://salicon.net/demo/#
+
+## Others 
+
+### Neural-Net Demo
+* tensorflow play ground http://playground.tensorflow.org/
+* karpathy: toy 2d classification http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
+
+### Text To Speech
+* Wavenet https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+### Speech Noise Reduction
+* SEGAN ('17.03) http://veu.talp.cat/segan/
+
+### Singing Generation
+* Neural Singing ('17.04) http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/
