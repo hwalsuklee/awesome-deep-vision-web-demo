@@ -81,3 +81,6 @@ Please feel free to pull requests to add papers.
 
 ### Singing Generation
 * Neural Singing ('17.04) http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/
+
+### Sound Synthesizer
+* Neural Synthesizer https://aiexperiments.withgoogle.com/sound-maker/view/
