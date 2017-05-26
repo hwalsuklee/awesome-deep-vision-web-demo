@@ -67,6 +67,9 @@ Please feel free to pull requests to add papers.
 ### Saliency Map
 * SALICON (ICCV 2015) http://salicon.net/demo/#
 
+### Font Generation
+* http://fontjoy.com/
+
 ## Others 
 
 ### Neural-Net Demo
