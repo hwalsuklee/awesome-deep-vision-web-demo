@@ -41,6 +41,7 @@ Please feel free to pull requests to add papers.
 
 ### Image Translation  
 * pix2pix https://affinelayer.com/pixsrv/index.html
+* pix2pix (human face) http://fotogenerator.npocloud.nl/
 
 ### Colorization  
 * sketch to color image https://paintschainer.preferred.tech/
