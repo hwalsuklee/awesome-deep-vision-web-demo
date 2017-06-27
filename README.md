@@ -58,6 +58,7 @@ Please feel free to pull requests to add papers.
 ### Google's AI Experiment
 * Quick Draw https://quickdraw.withgoogle.com/#
 * Auto Draw http://www.autodraw.com/
+* Sketch RNN (Draw together with a neural network) https://aiexperiments.withgoogle.com/sketch-rnn-demo
 
 ### Gaze Manipulation  
 * http://163.172.78.19/
