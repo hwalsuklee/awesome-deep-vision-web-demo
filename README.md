@@ -9,6 +9,7 @@ Please feel free to pull requests to add papers.
 ### Hand-written Digit Recognition  
 * https://tensorflow-mnist.herokuapp.com/  
 * https://erkaman.github.io/regl-cnn/src/demo.html
+* https://transcranial.github.io/keras-js/#/mnist-cnn
 
 ### Image Segmentation
 * CRF+RNN (ICCV 2015) http://www.robots.ox.ac.uk/~szheng/crfasrnndemo
@@ -21,19 +22,24 @@ Please feel free to pull requests to add papers.
 * Google Colud Vision API http://vision-explorer.reactive.ai/#/?_k=aodf68
 * IBMWatson Vision API https://visual-recognition-demo.mybluemix.net/
 * Karpathy: MNIST ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html  
-* Karpathy: CIFAR10 ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html  
+* Karpathy: CIFAR10 ConvNet http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
+* keras-js: IMAGENET 50-layer Residual Network https://transcranial.github.io/keras-js/#/resnet50
+* keras-js: IMAGENET Inception-v3 https://transcranial.github.io/keras-js/#/inception-v3
+* keras-js: IMAGENET SqueezeNet v1.1 https://transcranial.github.io/keras-js/#/squeezenet-v1.1
 
 ### Object Detection
 * http://silverpond.com.au/object-detector
 
 ### AutoEncoder 
 * VAE : MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
+* VAE : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-vae
 * VAE : Gray Face Generation http://vdumoulin.github.io/morphing_faces/online_demo.html
 * Karpathy: Denoising AutoEncoder http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html
 
-### DCGAN  
-* Asian Color Face Generation http://carpedm20.github.io/faces/
-* Character Generation http://mattya.github.io/chainer-DCGAN/
+### GAN  
+* DCGAN : Asian Color Face Generation http://carpedm20.github.io/faces/
+* DCGAN : Character Generation http://mattya.github.io/chainer-DCGAN/
+* ACGAN : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-acgan
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
