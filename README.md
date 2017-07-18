@@ -37,6 +37,7 @@ Please feel free to pull requests to add papers.
 * Karpathy: Denoising AutoEncoder http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html
 
 ### GAN  
+* GAN : 1D Gaussian Distribution Fitting http://cs.stanford.edu/people/karpathy/gan/
 * DCGAN : Asian Color Face Generation http://carpedm20.github.io/faces/
 * DCGAN : Character Generation http://mattya.github.io/chainer-DCGAN/
 * ACGAN : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-acgan
