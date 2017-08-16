@@ -41,6 +41,7 @@ Please feel free to pull requests to add papers.
 * DCGAN : Asian Color Face Generation http://carpedm20.github.io/faces/
 * DCGAN : Character Generation http://mattya.github.io/chainer-DCGAN/
 * ACGAN : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-acgan
+* Girls Chacacter Generation : http://make.girls.moe/#/
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
