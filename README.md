@@ -53,6 +53,7 @@ Please feel free to pull requests to add papers.
 
 ### Colorization  
 * sketch to color image https://paintschainer.preferred.tech/
+* draw sketch and colorize it https://sketch.pixiv.net/draw
 * deepcolor http://color.kvfrans.com/
 * gray photo to color photo http://demos.algorithmia.com/colorize-photos/
 
