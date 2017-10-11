@@ -31,6 +31,9 @@ Please feel free to pull requests to add papers.
 ### Object Detection
 * http://silverpond.com.au/object-detector
 
+### Age Estimation
+* https://how-old.net/
+
 ### AutoEncoder 
 * VAE : MNIST Geneartation http://www.dpkingma.com/sgvb_mnist_demo/demo.html
 * VAE : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-vae
