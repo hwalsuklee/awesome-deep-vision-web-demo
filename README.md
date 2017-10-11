@@ -26,6 +26,7 @@ Please feel free to pull requests to add papers.
 * keras-js: IMAGENET 50-layer Residual Network https://transcranial.github.io/keras-js/#/resnet50
 * keras-js: IMAGENET Inception-v3 https://transcranial.github.io/keras-js/#/inception-v3
 * keras-js: IMAGENET SqueezeNet v1.1 https://transcranial.github.io/keras-js/#/squeezenet-v1.1
+* Teachable Machine: 3 Classes with online video https://teachablemachine.withgoogle.com/
 
 ### Object Detection
 * http://silverpond.com.au/object-detector
