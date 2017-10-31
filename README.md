@@ -31,6 +31,9 @@ Please feel free to pull requests to add papers.
 ### Object Detection
 * http://silverpond.com.au/object-detector
 
+### Text Detection
+* Single Shot Text Detector with Regional Attention (ICCV 2017) http://128.227.246.42:5555/
+
 ### Age Estimation
 * https://how-old.net/
 
