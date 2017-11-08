@@ -89,6 +89,9 @@ Please feel free to pull requests to add papers.
 ### Font Generation
 * http://fontjoy.com/
 
+### OCR (Optical Character Recognition)
+* http://tesseract.projectnaptha.com/
+
 ## Others 
 
 ### Neural-Net Demo
