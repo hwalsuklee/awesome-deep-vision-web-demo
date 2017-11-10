@@ -89,6 +89,9 @@ Please feel free to pull requests to add papers.
 ### Font Generation
 * http://fontjoy.com/
 
+### Image to ASCII Code
+* https://art.pixlab.io/
+
 ### OCR (Optical Character Recognition)
 * http://tesseract.projectnaptha.com/
 
