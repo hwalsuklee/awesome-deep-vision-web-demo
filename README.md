@@ -92,6 +92,9 @@ Please feel free to pull requests to add papers.
 ### Image to ASCII Code
 * https://art.pixlab.io/
 
+### Image Completion
+* http://jhyu.me/posts/2018/01/20/generative-inpainting.html
+
 ### OCR (Optical Character Recognition)
 * http://tesseract.projectnaptha.com/
 
