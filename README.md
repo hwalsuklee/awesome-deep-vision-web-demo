@@ -98,6 +98,9 @@ Please feel free to pull requests to add papers.
 ### OCR (Optical Character Recognition)
 * http://tesseract.projectnaptha.com/
 
+### Human Pose Estimation
+* https://control.kylemcdonald.net/posenet/
+
 ## Others 
 
 ### Neural-Net Demo
