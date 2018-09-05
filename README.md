@@ -50,6 +50,7 @@ Please feel free to pull requests to add papers.
 * ACGAN : keras-js MNIST https://transcranial.github.io/keras-js/#/mnist-acgan
 * Girls Chacacter Generation : http://make.girls.moe/#/
 * GAN-playground : https://reiinakano.github.io/gan-playground/
+* GA Lab : https://poloclub.github.io/ganlab/
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
