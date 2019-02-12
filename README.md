@@ -51,6 +51,7 @@ Please feel free to pull requests to add papers.
 * Girls Chacacter Generation : http://make.girls.moe/#/
 * GAN-playground : https://reiinakano.github.io/gan-playground/
 * GA Lab : https://poloclub.github.io/ganlab/
+* Style GAN : https://thispersondoesnotexist.com/
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
