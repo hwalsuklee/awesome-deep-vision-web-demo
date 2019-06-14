@@ -52,6 +52,8 @@ Please feel free to pull requests to add papers.
 * GAN-playground : https://reiinakano.github.io/gan-playground/
 * GA Lab : https://poloclub.github.io/ganlab/
 * Style GAN : https://thispersondoesnotexist.com/
+* Image Inpainting : https://www.nvidia.com/research/inpainting/
+* GauGAN : http://52.12.58.174/
 
 ### Style Transfer  
 * On/Off-line Style Transfer, Deep Dream https://deepdreamgenerator.com/gallery
