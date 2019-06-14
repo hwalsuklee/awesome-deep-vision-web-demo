@@ -52,7 +52,6 @@ Please feel free to pull requests to add papers.
 * GAN-playground : https://reiinakano.github.io/gan-playground/
 * GA Lab : https://poloclub.github.io/ganlab/
 * Style GAN : https://thispersondoesnotexist.com/
-* Image Inpainting : https://www.nvidia.com/research/inpainting/
 * GauGAN : http://52.12.58.174/
 
 ### Style Transfer  
@@ -97,6 +96,7 @@ Please feel free to pull requests to add papers.
 * https://art.pixlab.io/
 
 ### Image Completion
+* NVIDIA : https://www.nvidia.com/research/inpainting/
 * http://jhyu.me/posts/2018/01/20/generative-inpainting.html
 
 ### OCR (Optical Character Recognition)
